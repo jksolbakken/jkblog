@@ -1,0 +1,4 @@
+baseURL = 'http://blog.jksolbakken.no'
+languageCode = 'en-us'
+title = 'J-K'
+theme = "hugo-theme-bootstrap4-blog"
