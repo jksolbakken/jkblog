@@ -1,4 +1,4 @@
-baseURL = 'http://blog.jksolbakken.no'
+baseURL = 'https://blog.jksolbakken.no'
 languageCode = 'en-us'
 title = 'blog.jksolbakken.no'
 theme = "hugo-theme-bootstrap4-blog"
