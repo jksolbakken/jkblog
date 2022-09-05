@@ -2,7 +2,7 @@
 title: "Trusted types"
 date: 2022-08-30T19:46:56+02:00
 tags: ["security", "web"]
-draft: true
+draft: false
 ---
 
 The latest addition to the XSS protection landscape is [Trusted Types](https://w3c.github.io/webappsec-trusted-types/dist/spec/), "an API that allows applications to lock down powerful APIs to only accept non-spoofable, typed values in place of strings to prevent vulnerabilities caused by using these APIs with attacker-controlled inputs".
