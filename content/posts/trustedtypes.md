@@ -54,4 +54,4 @@ Now, if an attacker attempts to write strings directly to an unsafe sink the bro
 
 ![TypeError](/img/typeerror.png)
 
-At the time of writing Trusted Types are [supported](https://caniuse.com/?search=trusted%20types) in Chrome, Edge and Opera.
+At the time of writing Trusted Types are [supported](https://caniuse.com/?search=trusted%20types) in Chrome, Edge and Opera. A [polyfill](https://www.npmjs.com/package/trusted-types) is available for the other browsers.
