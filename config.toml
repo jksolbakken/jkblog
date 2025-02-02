@@ -1,17 +1,16 @@
 baseURL = 'https://blog.jksolbakken.no'
 languageCode = 'en-us'
 title = 'blog.jksolbakken.no'
-theme = "hugo-theme-bootstrap4-blog"
-rssLimit = 20
-summaryLength = 50
-copyright = "© 2022 Jan-Kåre Solbakken. All rights reserved."
+theme = "hugo-kiera"
+
+pygmentsCodeFences = true
+
+[author]
+    name = "Jan-Kåre Solbakken"
+    github = "jksolbakken"
+    linkedin = "jksolbakken"
 
 [params]
-  author = "Jan-Kåre Solbakken"
-  sharingicons = true
-  num_recent_posts = 5
-
-
-[params.sidebar]
-about = "I am a software developer based in Oslo, Norway. These are my notes on various topics in development and security."
-
+    tagline = "Ramblings about software and stuff"
+    customCSS = []  #Optional Customised CSS
+    disableDarkModeCSS = false # disables css style for users using dark-mode
