@@ -11,6 +11,6 @@ pygmentsCodeFences = true
     linkedin = "jksolbakken"
 
 [params]
-    tagline = "Ramblings about software and stuff"
+    tagline = "Some personal notes, because writing stuff down helps me remember it."
     customCSS = []  #Optional Customised CSS
     disableDarkModeCSS = false # disables css style for users using dark-mode
